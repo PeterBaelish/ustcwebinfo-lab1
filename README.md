@@ -16,7 +16,7 @@ nltk
 3.bool检索
 
 
-4.语义检索
+4.语义检索  
     复制exp1/output/tfidf到exp1/src下，终端运行python3 semantics_search_test.py
 
 ***
