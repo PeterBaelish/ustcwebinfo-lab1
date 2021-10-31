@@ -1,9 +1,9 @@
 ## 运行环境
 
-ubuntu18.04
-python3
-anaconda3
-nltk
+ubuntu18.04  
+python3  
+anaconda3  
+nltk  
 
 ***
 
